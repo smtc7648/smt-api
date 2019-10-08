@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# compiled sass files(.css and .css.map)
+public/stylesheets/*.css*
+public/stylesheets/*.css.map*
